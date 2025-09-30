@@ -92,15 +92,6 @@ Results for each experiment will be saved as a .csv file in the ./outs/acc\_sl/ 
 
 This work is currently under review. If you use this code or our findings in your research, we would appreciate a citation to our manuscript. Please cite the repository for now, and we will update this section with the full citation upon publication.
 
-@misc{Liao2025ScalingLawCode,  
-  title   \= {Code for: A Scaling Law-Based Sampling Framework for Sample Sufficiency in Geoscience},  
-  author  \= {Liao, Yuanhong and et al.},  
-  year    \= {2025},  
-  publisher \= {GitHub},  
-  journal \= {GitHub repository},  
-  howpublished \= {\\url{\[https://github.com/\](https://github.com/)\[your-username\]/\[your-repo-name\]}}  
-}
-
 ## **License**
 
 This project is licensed under the MIT License. See the [LICENSE](https://www.google.com/search?q=LICENSE) file for details.
