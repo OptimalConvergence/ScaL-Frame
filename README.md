@@ -2,7 +2,7 @@
 
 This repository contains the official code for the manuscript, "A Scaling Law-Based Sampling Framework for Sample Sufficiency in Geoscience." This work introduces ScaL-Frame, a computational framework that leverages predictable Scaling Laws to transform sample collection from an ad-hoc process into a data-driven science.
 
-**Note:** This work is currently under peer review and has not yet been published.
+**Note:** This work is currently under consideration and has not yet been published.
 
 ## **Overview**
 
