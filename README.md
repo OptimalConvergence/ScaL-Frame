@@ -25,7 +25,7 @@ This repository provides the code to reproduce our key findings, including:
 ## **Installation**
 
 1. Clone the repository:  
-   git clone \[https://github.com/\](https://github.com/)\[your-username\]/\[your-repo-name\].git  
+   git clone \[https://github.com/\](https://github.com/)\[OptimalConvergence\]/\[ScaL-Frame\].git  
    cd \[your-repo-name\]
 
 2. Create a Python environment and install the required dependencies. We recommend using Conda:  
