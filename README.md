@@ -26,7 +26,7 @@ This repository provides the code to reproduce our key findings, including:
 
 1. Clone the repository:  
    git clone \[https://github.com/\](https://github.com/)\[OptimalConvergence\]/\[ScaL-Frame\].git  
-   cd \[your-repo-name\]
+   cd ScaL-Frame
 
 2. Create a Python environment and install the required dependencies. We recommend using Conda:  
    conda create \-n scal-frame python=3.9  
@@ -49,7 +49,7 @@ After downloading, please place the data in a directory structure that the code 
   │       ├── FAST/  
   │       ├── LUCAS/  
   │       └── CoastTrain/  
-  └── \[your-repo-name\]/  
+  └── ScaL-Frame/  
       ├── exp\_acc\_scaling\_law.py  
       └── ...
 
