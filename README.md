@@ -37,9 +37,7 @@ This repository provides the code to reproduce our key findings, including:
 
 ## **Data**
 
-The datasets used in this study (FAST, LUCAS, CoastTrain) are publicly available. You can download the prepared data from our repository on Figshare:
-
-[**https://figshare.com/s/6cdcbe71b53df163f3d2**](https://figshare.com/s/6cdcbe71b53df163f3d2)
+The datasets used in this study (FAST, LUCAS, CoastTrain) are publicly available. You can download the prepared data from our repository on Figshare.
 
 After downloading, please place the data in a directory structure that the code expects. Based on proc\_samples.py, the expected path is ../../assets/LCSamples. This means you should create an assets directory at the same level as your repository folder:
 
